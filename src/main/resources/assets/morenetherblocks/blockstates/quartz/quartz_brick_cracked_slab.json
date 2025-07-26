@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/quartz_brick_cracked_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/quartz_bricks_cracked"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/quartz_brick_cracked_slab_top"
+    }
+  }
+}

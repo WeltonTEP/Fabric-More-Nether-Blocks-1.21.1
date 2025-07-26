@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "morenetherblocks:block/glowstone/glowstone_polished_carved_mosaic"
+  }
+}

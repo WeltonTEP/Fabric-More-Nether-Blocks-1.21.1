@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:obsidian/obsidian_polished_square_bricks"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "morenetherblocks:obsidian/obsidian_polished_square_brick_slab"
+  }
+}

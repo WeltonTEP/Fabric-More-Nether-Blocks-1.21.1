@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "morenetherblocks:block/netherstone/netherstone_polished_cut_planks_cracked"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/platinum/platinum_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/platinum/platinum_block"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/platinum/platinum_slab_top"
+    }
+  }
+}

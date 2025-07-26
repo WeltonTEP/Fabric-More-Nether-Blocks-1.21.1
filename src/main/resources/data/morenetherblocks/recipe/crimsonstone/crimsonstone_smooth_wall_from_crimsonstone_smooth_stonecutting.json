@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:crimsonstone/crimsonstone_smooth"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:crimsonstone/crimsonstone_smooth_wall"
+  }
+}

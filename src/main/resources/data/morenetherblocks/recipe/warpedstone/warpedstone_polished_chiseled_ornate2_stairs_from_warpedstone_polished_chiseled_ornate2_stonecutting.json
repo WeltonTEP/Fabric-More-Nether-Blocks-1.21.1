@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:warpedstone/warpedstone_polished_chiseled_ornate2"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:warpedstone/warpedstone_polished_chiseled_ornate2_stairs"
+  }
+}

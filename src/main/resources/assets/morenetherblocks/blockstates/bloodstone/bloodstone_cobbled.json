@@ -1,0 +1,78 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled"
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 90
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 180
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 270
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "y": 90
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 180,
+        "y": 90
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 270,
+        "y": 90
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 180,
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 270,
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "y": 270
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 90,
+        "y": 270
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 180,
+        "y": 270
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_cobbled",
+        "x": 270,
+        "y": 270
+      }
+    ]
+  }
+}

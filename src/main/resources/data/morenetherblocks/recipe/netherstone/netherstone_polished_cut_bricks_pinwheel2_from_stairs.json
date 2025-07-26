@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:netherstone/netherstone_polished_cut_brick_pinwheel2_stairs"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "id": "morenetherblocks:netherstone/netherstone_polished_cut_bricks_pinwheel2"
+  }
+}

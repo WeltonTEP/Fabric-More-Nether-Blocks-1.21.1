@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:blackstone/blackstone_polished_carved_mosaic"
+    }
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 2,
+    "id": "morenetherblocks:blackstone/blackstone_polished_carved_mosaic_pillar"
+  }
+}

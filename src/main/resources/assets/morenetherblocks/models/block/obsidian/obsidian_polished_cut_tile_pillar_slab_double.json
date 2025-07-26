@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "morenetherblocks:block/obsidian/obsidian_polished_cut_tile_pillar_top"
+  }
+}

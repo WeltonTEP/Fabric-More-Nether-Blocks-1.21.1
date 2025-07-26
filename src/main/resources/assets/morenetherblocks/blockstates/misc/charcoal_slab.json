@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/misc/charcoal_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/misc/charcoal_planks"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/misc/charcoal_slab_top"
+    }
+  }
+}

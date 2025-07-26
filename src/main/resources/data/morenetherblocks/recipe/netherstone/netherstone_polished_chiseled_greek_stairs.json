@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_stairs",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:netherstone/netherstone_polished_chiseled_greek"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "morenetherblocks:netherstone/netherstone_polished_chiseled_greek_stairs"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_brick_road2_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_bricks_road2"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_brick_road2_slab_top"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "morenetherblocks:block/netherstone/netherstone_cobbled",
+    "side": "morenetherblocks:block/netherstone/netherstone_cobbled",
+    "top": "morenetherblocks:block/netherstone/netherstone_cobbled"
+  }
+}

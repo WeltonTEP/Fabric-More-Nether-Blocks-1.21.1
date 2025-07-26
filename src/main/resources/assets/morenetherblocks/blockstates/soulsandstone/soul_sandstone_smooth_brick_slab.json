@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/soul_sandstone_smooth_brick_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/soul_sandstone_smooth_bricks"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/soul_sandstone_smooth_brick_slab_top"
+    }
+  }
+}

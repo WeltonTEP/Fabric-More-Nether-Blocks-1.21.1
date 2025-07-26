@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:warped/warped_blue_nether_brick_wall"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 4,
+    "id": "morenetherblocks:warped/warped_blue_nether_bricks"
+  }
+}

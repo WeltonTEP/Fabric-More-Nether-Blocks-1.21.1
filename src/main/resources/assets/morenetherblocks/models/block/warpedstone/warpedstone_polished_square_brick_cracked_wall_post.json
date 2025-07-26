@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "morenetherblocks:block/warpedstone/warpedstone_polished_square_bricks_cracked"
+  }
+}

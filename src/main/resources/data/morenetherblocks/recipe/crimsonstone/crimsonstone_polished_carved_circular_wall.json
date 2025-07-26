@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:crimsonstone/crimsonstone_polished_carved_circular"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "morenetherblocks:crimsonstone/crimsonstone_polished_carved_circular_wall"
+  }
+}

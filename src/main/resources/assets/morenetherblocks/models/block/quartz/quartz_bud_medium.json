@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "morenetherblocks:block/quartz_bud_medium"
+  }
+}

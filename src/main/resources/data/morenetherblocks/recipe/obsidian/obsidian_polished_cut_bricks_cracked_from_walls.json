@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:obsidian/obsidian_polished_cut_brick_cracked_wall"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 4,
+    "id": "morenetherblocks:obsidian/obsidian_polished_cut_bricks_cracked"
+  }
+}

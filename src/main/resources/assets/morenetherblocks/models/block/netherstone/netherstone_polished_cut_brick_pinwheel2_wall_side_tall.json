@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side_tall",
+  "textures": {
+    "wall": "morenetherblocks:block/netherstone/netherstone_polished_cut_bricks_pinwheel2"
+  }
+}

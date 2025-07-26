@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_chiseled_pyramid_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_chiseled_pyramid"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_chiseled_pyramid_slab_top"
+    }
+  }
+}

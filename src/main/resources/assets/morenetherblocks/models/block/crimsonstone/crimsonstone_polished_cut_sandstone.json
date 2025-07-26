@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "morenetherblocks:block/crimsonstone/crimsonstone_polished",
+    "side": "morenetherblocks:block/crimsonstone/crimsonstone_polished_cut_sandstone"
+  }
+}

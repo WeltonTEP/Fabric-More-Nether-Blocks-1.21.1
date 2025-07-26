@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:crimsonstone/crimsonstone_polished_cut_plank_pillar2_wall"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 4,
+    "id": "morenetherblocks:crimsonstone/crimsonstone_polished_cut_plank_pillar2"
+  }
+}

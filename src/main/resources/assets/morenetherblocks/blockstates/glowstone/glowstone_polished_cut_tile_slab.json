@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/glowstone/glowstone_polished_cut_tile_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/glowstone/glowstone_polished_cut_tiles"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/glowstone/glowstone_polished_cut_tile_slab_top"
+    }
+  }
+}

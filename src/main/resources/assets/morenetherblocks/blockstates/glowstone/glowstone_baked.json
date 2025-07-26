@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "morenetherblocks:block/glowstone/glowstone_baked"
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glowstone_baked_mirrored"
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glowstone_baked",
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glowstone_baked_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

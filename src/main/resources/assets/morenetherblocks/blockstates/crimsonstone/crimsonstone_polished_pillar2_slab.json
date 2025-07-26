@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/crimsonstone/crimsonstone_polished_pillar2_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/crimsonstone/crimsonstone_polished_pillar2_slab_double"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/crimsonstone/crimsonstone_polished_pillar2_slab_top"
+    }
+  }
+}

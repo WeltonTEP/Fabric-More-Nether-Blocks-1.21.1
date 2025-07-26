@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "morenetherblocks:misc/blue_nether_brick_wall"
+  },
+  "result": {
+    "id": "morenetherblocks:misc/blue_nether_brick_cracked_wall"
+  }
+}

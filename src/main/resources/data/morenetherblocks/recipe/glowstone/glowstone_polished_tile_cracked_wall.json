@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:glowstone/glowstone_polished_tiles_cracked"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "morenetherblocks:glowstone/glowstone_polished_tile_cracked_wall"
+  }
+}

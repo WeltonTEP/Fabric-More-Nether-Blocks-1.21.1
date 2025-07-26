@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_stairs",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:netherstone/netherstone_polished_cut_bricks_braided2"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "morenetherblocks:netherstone/netherstone_polished_cut_brick_braided2_stairs"
+  }
+}

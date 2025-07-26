@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:crimsonstone/crimsonstone_polished_cut_brick_road2_stairs"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "id": "morenetherblocks:crimsonstone/crimsonstone_polished_cut_bricks_road2"
+  }
+}

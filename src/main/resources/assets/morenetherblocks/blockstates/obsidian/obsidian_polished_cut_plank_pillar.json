@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_plank_pillar_horizontal_x"
+    },
+    "axis=y": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_plank_pillar"
+    },
+    "axis=z": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_plank_pillar_horizontal_z"
+    }
+  }
+}

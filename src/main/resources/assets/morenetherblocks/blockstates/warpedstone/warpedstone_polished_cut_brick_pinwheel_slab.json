@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_cut_brick_pinwheel_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_cut_bricks_pinwheel"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_cut_brick_pinwheel_slab_top"
+    }
+  }
+}

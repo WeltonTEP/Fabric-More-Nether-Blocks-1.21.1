@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/glowstone/glowstone_baked",
+    "top": "morenetherblocks:block/glowstone/glowstone_baked",
+    "side": "morenetherblocks:block/glowstone/glowstone_baked"
+  }
+}

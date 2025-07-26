@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "morenetherblocks:block/bloodstone/bloodstone_polished_cut"
+  }
+}

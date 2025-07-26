@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "morenetherblocks:block/obsidian/obsidian_polished_cut_planks_cracked",
+    "side": "morenetherblocks:block/obsidian/obsidian_polished_cut_planks_cracked",
+    "top": "morenetherblocks:block/obsidian/obsidian_polished_cut_planks_cracked"
+  }
+}

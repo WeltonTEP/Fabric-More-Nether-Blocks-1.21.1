@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "morenetherblocks:soulsandstone/soul_sand_loose"
+        }
+      ]
+    }
+  ]
+}

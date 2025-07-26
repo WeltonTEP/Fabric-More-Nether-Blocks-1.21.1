@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:basalt/basalt_smooth_polished_shingles"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "morenetherblocks:basalt/basalt_smooth_polished_shingle_wall"
+  }
+}

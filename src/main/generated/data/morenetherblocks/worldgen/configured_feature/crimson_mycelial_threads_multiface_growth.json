@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:multiface_growth",
+  "config": {
+    "block": "morenetherblocks:crimson/crimson_mycelial_threads",
+    "can_be_placed_on": [
+      "minecraft:netherrack",
+      "minecraft:nether_wart_block",
+      "minecraft:crimson_nylium",
+      "minecraft:crimson_stem",
+      "minecraft:nether_bricks",
+      "minecraft:cracked_nether_bricks",
+      "minecraft:blackstone",
+      "minecraft:polished_blackstone_bricks",
+      "minecraft:cracked_polished_blackstone_bricks",
+      "morenetherblocks:blackstone/blackstone_cobbled",
+      "minecraft:basalt",
+      "minecraft:polished_basalt",
+      "morenetherblocks:crimson/crimson_netherrack",
+      "morenetherblocks:crimson/crimson_netherrack_cracked",
+      "morenetherblocks:crimson/crimson_blackstone_polished_large_bricks",
+      "morenetherblocks:crimson/crimson_blackstone_polished_large_bricks_cracked",
+      "morenetherblocks:crimson/crimson_nether_bricks",
+      "morenetherblocks:crimson/crimson_nether_bricks_cracked",
+      "morenetherblocks:netherstone/netherstone_cobbled",
+      "minecraft:red_nether_bricks",
+      "morenetherblocks:misc/red_nether_bricks_cracked",
+      "morenetherblocks:crimson/crimson_red_nether_bricks",
+      "morenetherblocks:crimson/crimson_red_nether_bricks_cracked",
+      "morenetherblocks:crimsonstone/crimsonstone_cobbled"
+    ],
+    "can_place_on_ceiling": true,
+    "can_place_on_floor": true,
+    "can_place_on_wall": true,
+    "chance_of_spreading": 1.0,
+    "search_range": 20
+  }
+}

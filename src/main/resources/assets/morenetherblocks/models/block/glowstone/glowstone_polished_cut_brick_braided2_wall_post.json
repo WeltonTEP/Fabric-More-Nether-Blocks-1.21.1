@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "morenetherblocks:block/glowstone/glowstone_polished_cut_bricks_braided2"
+  }
+}

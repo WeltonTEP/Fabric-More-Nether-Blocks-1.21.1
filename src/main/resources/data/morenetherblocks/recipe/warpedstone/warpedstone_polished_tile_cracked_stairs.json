@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_stairs",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:warpedstone/warpedstone_polished_tiles_cracked"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "id": "morenetherblocks:warpedstone/warpedstone_polished_tile_cracked_stairs"
+  }
+}

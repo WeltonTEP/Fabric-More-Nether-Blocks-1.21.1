@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:netherstone/netherstone_polished_chiseled_ornate"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "morenetherblocks:netherstone/netherstone_polished_chiseled_ornate_wall"
+  }
+}

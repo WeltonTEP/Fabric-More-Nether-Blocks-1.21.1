@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:warpedstone/warpedstone_polished_carved_dent_pillar_slab"
+    }
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:warpedstone/warpedstone_polished_carved_dent_pillar"
+  }
+}

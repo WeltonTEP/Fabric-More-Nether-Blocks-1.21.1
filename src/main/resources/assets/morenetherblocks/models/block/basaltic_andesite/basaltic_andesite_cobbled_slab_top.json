@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "morenetherblocks:block/basaltic_andesite_cobbled",
+    "top": "morenetherblocks:block/basaltic_andesite_cobbled",
+    "side": "morenetherblocks:block/basaltic_andesite_cobbled"
+  }
+}

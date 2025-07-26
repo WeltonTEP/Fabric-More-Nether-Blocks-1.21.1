@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "morenetherblocks:block/crimsonstone/crimsonstone"
+      },
+      {
+        "model": "morenetherblocks:block/crimsonstone/crimsonstone_mirrored"
+      },
+      {
+        "model": "morenetherblocks:block/crimsonstone/crimsonstone",
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/crimsonstone/crimsonstone_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

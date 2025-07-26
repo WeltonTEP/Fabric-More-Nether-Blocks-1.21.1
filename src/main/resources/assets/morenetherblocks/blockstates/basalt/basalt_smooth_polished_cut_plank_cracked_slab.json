@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_cut_plank_cracked_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_cut_planks_cracked"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_cut_plank_cracked_slab_top"
+    }
+  }
+}

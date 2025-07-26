@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side_tall",
+  "textures": {
+    "wall": "morenetherblocks:block/crimson/crimson_red_nether_bricks"
+  }
+}

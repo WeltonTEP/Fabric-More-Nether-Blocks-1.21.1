@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:glowstone/glowstone_polished_cut_bricks_road2"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "morenetherblocks:glowstone/glowstone_polished_cut_brick_road2_slab"
+  }
+}

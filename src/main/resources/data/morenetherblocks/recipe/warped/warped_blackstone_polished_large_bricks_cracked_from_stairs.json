@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:warped/warped_blackstone_polished_large_brick_cracked_stairs"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "id": "morenetherblocks:warped/warped_blackstone_polished_large_bricks_cracked"
+  }
+}

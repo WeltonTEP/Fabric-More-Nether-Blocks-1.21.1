@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "morenetherblocks:block/glowstone/glowstone_polished_carved_circular_pillar_top",
+    "side": "morenetherblocks:block/glowstone/glowstone_polished_carved_circular_pillar"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:crimsonstone/crimsonstone_polished_cut_bricks_pinwheel"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "morenetherblocks:crimsonstone/crimsonstone_polished_cut_brick_pinwheel_slab"
+  }
+}

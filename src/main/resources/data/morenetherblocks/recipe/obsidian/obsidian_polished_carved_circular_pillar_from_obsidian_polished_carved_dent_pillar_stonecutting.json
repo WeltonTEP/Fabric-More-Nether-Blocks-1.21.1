@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:obsidian/obsidian_polished_carved_dent_pillar"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:obsidian/obsidian_polished_carved_circular_pillar"
+  }
+}

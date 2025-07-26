@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/basalt/basalt_weathered_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/basalt/basalt_weathered"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/basalt/basalt_weathered_slab_top"
+    }
+  }
+}

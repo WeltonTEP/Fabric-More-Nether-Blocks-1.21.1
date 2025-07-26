@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "morenetherblocks:block/quartz_bud_medium",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "morenetherblocks:block/quartz_bud_medium",
+      "x": 90,
+      "y": 90
+    },
+    "facing=north": {
+      "model": "morenetherblocks:block/quartz_bud_medium",
+      "x": 90
+    },
+    "facing=south": {
+      "model": "morenetherblocks:block/quartz_bud_medium",
+      "x": 90,
+      "y": 180
+    },
+    "facing=up": {
+      "model": "morenetherblocks:block/quartz_bud_medium"
+    },
+    "facing=west": {
+      "model": "morenetherblocks:block/quartz_bud_medium",
+      "x": 90,
+      "y": 270
+    }
+  }
+}

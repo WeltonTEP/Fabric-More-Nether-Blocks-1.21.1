@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "mossy_stone_bricks",
+  "ingredients": [
+    {
+      "item": "morenetherblocks:basalt/basalt_smooth_polished_square_bricks_cracked"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:basalt/basalt_smooth_polished"
+  }
+}

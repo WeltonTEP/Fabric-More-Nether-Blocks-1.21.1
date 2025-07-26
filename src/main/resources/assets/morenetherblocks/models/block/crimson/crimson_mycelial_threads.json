@@ -1,0 +1,16 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "morenetherblocks:block/crimson/crimson_mycelial_threads",
+    "crimson_mycelial_threads": "morenetherblocks:block/crimson/crimson_mycelial_threads"
+  },
+  "elements": [
+    {   "from": [ 0, 0, 0.1 ],
+      "to": [ 16, 16, 0.1 ],
+      "faces": {
+        "north": { "uv": [ 16, 0, 0, 16 ], "texture": "#crimson_mycelial_threads" },
+        "south": { "uv": [ 0, 0, 16, 16 ], "texture": "#crimson_mycelial_threads" }
+      }
+    }
+  ]
+}

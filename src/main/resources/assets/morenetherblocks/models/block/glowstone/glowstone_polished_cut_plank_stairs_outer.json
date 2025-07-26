@@ -1,0 +1,9 @@
+
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/glowstone/glowstone_polished_cut_planks",
+    "side": "morenetherblocks:block/glowstone/glowstone_polished_cut_planks",
+    "top": "morenetherblocks:block/glowstone/glowstone_polished_cut_planks"
+  }
+}

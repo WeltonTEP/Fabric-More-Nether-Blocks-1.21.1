@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:blackstone/blackstone_smooth_cracked"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:blackstone/blackstone_smooth_cracked_stairs"
+  }
+}

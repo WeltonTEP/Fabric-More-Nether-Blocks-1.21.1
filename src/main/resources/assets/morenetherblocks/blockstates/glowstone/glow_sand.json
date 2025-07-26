@@ -1,0 +1,78 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand"
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 90
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 180
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 270
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "y": 90
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 180,
+        "y": 90
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 270,
+        "y": 90
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 180,
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 270,
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "y": 270
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 90,
+        "y": 270
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 180,
+        "y": 270
+      },
+      {
+        "model": "morenetherblocks:block/glowstone/glow_sand",
+        "x": 270,
+        "y": 270
+      }
+    ]
+  }
+}

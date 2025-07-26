@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "morenetherblocks:misc/blue_nether_bricks"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "id": "morenetherblocks:misc/blue_nether_brick"
+  }
+}

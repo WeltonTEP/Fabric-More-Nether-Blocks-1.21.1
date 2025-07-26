@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/crimson/crimson_red_nether_bricks_cracked",
+    "top": "morenetherblocks:block/crimson/crimson_red_nether_bricks_cracked",
+    "side": "morenetherblocks:block/crimson/crimson_red_nether_bricks_cracked"
+  }
+}

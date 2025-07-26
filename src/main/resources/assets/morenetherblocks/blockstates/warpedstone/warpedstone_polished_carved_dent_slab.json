@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_carved_dent_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_carved_dent"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_carved_dent_slab_top"
+    }
+  }
+}

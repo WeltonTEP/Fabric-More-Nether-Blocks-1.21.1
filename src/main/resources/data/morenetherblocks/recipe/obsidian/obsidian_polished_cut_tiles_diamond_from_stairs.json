@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:obsidian/obsidian_polished_cut_tile_diamond_stairs"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 3,
+    "id": "morenetherblocks:obsidian/obsidian_polished_cut_tiles_diamond"
+  }
+}

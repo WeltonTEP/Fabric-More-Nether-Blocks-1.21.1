@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_square_brick_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_square_bricks"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_square_brick_slab_top"
+    }
+  }
+}

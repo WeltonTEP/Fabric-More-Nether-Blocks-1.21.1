@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/basaltic_andesite",
+    "top": "morenetherblocks:block/basaltic_andesite",
+    "side": "morenetherblocks:block/basaltic_andesite"
+  }
+}

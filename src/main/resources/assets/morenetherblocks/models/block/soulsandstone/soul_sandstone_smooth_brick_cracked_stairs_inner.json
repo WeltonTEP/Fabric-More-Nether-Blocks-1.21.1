@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "top": "morenetherblocks:block/soul_sandstone_smooth_bricks_cracked",
+    "bottom": "morenetherblocks:block/soul_sandstone_smooth_bricks_cracked",
+    "side": "morenetherblocks:block/soul_sandstone_smooth_bricks_cracked"
+  }
+}

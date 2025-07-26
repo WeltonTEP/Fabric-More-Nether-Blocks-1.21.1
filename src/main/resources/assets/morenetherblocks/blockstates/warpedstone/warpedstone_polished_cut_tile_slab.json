@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_cut_tile_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_cut_tiles"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_cut_tile_slab_top"
+    }
+  }
+}

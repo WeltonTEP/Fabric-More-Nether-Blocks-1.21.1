@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/platinum/platinum_chiseled_block",
+    "top": "morenetherblocks:block/platinum/platinum_chiseled_block",
+    "side": "morenetherblocks:block/platinum/platinum_chiseled_block"
+  }
+}

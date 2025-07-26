@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:warpedstone/warpedstone_polished_large_bricks_cracked"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "morenetherblocks:warpedstone/warpedstone_polished_large_brick_cracked_wall"
+  }
+}

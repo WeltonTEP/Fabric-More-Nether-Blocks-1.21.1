@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/crimsonstone/crimsonstone_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/crimsonstone/crimsonstone"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/crimsonstone/crimsonstone_slab_top"
+    }
+  }
+}

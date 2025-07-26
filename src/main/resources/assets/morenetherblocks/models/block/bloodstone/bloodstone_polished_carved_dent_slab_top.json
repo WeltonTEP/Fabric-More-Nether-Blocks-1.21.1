@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "morenetherblocks:block/bloodstone/bloodstone_polished_carved_dent",
+    "side": "morenetherblocks:block/bloodstone/bloodstone_polished_carved_dent",
+    "top": "morenetherblocks:block/bloodstone/bloodstone_polished_carved_dent"
+  }
+}

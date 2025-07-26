@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:bloodstone/bloodstone_polished_cut_tiles_diamond"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:bloodstone/bloodstone_polished_cut_tile_diamond_wall"
+  }
+}

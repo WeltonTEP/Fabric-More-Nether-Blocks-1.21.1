@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "morenetherblocks:block/crimson/crimson_mycelial_threads"
+  }
+
+}

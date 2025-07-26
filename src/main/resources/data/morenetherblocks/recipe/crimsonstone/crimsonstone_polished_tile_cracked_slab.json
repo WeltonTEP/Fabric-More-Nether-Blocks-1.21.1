@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:crimsonstone/crimsonstone_polished_tiles_cracked"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "id": "morenetherblocks:crimsonstone/crimsonstone_polished_tile_cracked_slab"
+  }
+}

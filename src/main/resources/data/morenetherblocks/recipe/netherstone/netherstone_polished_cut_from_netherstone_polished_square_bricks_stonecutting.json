@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:netherstone/netherstone_polished_square_bricks"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:netherstone/netherstone_polished_cut"
+  }
+}

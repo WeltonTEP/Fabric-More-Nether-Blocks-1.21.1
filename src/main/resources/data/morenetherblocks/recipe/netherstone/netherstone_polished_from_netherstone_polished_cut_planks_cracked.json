@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "mossy_stone_bricks",
+  "ingredients": [
+    {
+      "item": "morenetherblocks:netherstone/netherstone_polished_cut_planks_cracked"
+    },
+    {
+      "item": "minecraft:clay_ball"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:netherstone/netherstone_polished"
+  }
+}

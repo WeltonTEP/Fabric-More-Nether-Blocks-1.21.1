@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/crimson/crimson_red_nether_brick_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/crimson/crimson_red_nether_bricks"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/crimson/crimson_red_nether_brick_slab_top"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "morenetherblocks:item/charcoal_sapling"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/netherstone/netherstone_polished_cut_brick_road_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/netherstone/netherstone_polished_cut_bricks_road"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/netherstone/netherstone_polished_cut_brick_road_slab_top"
+    }
+  }
+}

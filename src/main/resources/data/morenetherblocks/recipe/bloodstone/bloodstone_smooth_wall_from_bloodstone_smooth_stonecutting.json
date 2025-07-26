@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:bloodstone/bloodstone_smooth"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:bloodstone/bloodstone_smooth_wall"
+  }
+}

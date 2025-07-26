@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/basalt/basalt_smooth_polished_chiseled_ornate",
+    "side": "morenetherblocks:block/basalt/basalt_smooth_polished_chiseled_ornate",
+    "top": "morenetherblocks:block/basalt/basalt_smooth_polished_chiseled_ornate"
+  }
+}

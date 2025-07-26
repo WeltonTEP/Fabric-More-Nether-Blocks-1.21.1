@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "morenetherblocks:block/glowstone/glowstone_polished",
+    "side": "morenetherblocks:block/glowstone/glowstone_polished_sandstone_slab"
+  }
+}

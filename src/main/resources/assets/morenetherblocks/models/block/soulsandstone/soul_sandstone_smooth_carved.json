@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "particle": "morenetherblocks:block/soul_sandstone_smooth_carved_back",
+    "north": "morenetherblocks:block/soul_sandstone_smooth_carved_front",
+    "south": "morenetherblocks:block/soul_sandstone_smooth_carved_back",
+    "east": "morenetherblocks:block/soul_sandstone_smooth_carved_left",
+    "west": "morenetherblocks:block/soul_sandstone_smooth_carved_right",
+    "up": "morenetherblocks:block/soul_sandstone_smooth_carved_top",
+    "down": "morenetherblocks:block/soul_sandstone_smooth_carved_bottom"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:bloodstone/bloodstone_cobbled"
+    },
+    "C": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "morenetherblocks:platinum/platinum"
+    }
+  },
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

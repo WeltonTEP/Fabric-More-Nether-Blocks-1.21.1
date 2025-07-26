@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_carved_circular_pillar_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_carved_circular_pillar_slab_double"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_carved_circular_pillar_slab_top"
+    }
+  }
+}

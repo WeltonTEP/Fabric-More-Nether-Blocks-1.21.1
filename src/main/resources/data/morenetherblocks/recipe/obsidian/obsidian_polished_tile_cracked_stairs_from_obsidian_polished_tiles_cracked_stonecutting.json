@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:obsidian/obsidian_polished_tiles_cracked"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:obsidian/obsidian_polished_tile_cracked_stairs"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/blackstone/blackstone_polished_chiseled_greek_top",
+    "side": "morenetherblocks:block/blackstone/blackstone_polished_chiseled_greek",
+    "top": "morenetherblocks:block/blackstone/blackstone_polished_chiseled_greek_top"
+  }
+}

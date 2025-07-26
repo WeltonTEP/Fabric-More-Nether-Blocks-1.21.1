@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "morenetherblocks:block/netherstone/netherstone_polished_pillar_top"
+  }
+}

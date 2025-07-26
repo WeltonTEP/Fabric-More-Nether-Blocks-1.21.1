@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "morenetherblocks:block/blackstone/blackstone_polished_carved_mosaic"
+  }
+}

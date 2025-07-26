@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "morenetherblocks:block/misc/charcoal_log_horizontal_x"
+    },
+    "axis=y": {
+      "model": "morenetherblocks:block/misc/charcoal_log"
+    },
+    "axis=z": {
+      "model": "morenetherblocks:block/misc/charcoal_log_horizontal_z"
+    }
+  }
+}

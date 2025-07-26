@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "morenetherblocks",
+	"version": "${version}",
+	"name": "MoreNetherBlocks",
+	"description": "Adds more nether blocks.",
+	"authors": [
+		"WeltonTEP"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/WeltonTEP/Fabric-More_Nether_Blocks-1.21.1/tree/master/src/main/java/net/weltontep/morenetherblocks"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/morenetherblocks/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.weltontep.morenetherblocks.MoreNetherBlocks"
+		],
+		"client": [
+			"net.weltontep.morenetherblocks.MoreNetherBlocksClient"
+		],
+		"fabric-datagen": [
+			"net.weltontep.morenetherblocks.MoreNetherBlocksDataGenerator"
+		]
+	},
+	"mixins": [
+		"morenetherblocks.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

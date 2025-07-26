@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "top": "morenetherblocks:block/soul_sandstone_polished_tiles",
+    "bottom": "morenetherblocks:block/soul_sandstone_polished_tiles",
+    "side": "morenetherblocks:block/soul_sandstone_polished_tiles"
+  }
+}

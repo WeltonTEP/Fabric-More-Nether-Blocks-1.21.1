@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:crimsonstone/crimsonstone_polished_cut_bricks_braided"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:crimsonstone/crimsonstone_polished_cut_brick_braided_stairs"
+  }
+}

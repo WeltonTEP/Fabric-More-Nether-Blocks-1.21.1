@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:obsidian/obsidian_smooth"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:obsidian/obsidian_smooth_stairs"
+  }
+}

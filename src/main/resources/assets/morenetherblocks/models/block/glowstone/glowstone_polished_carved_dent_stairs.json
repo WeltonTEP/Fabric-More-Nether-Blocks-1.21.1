@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/glowstone/glowstone_polished_carved_dent",
+    "side": "morenetherblocks:block/glowstone/glowstone_polished_carved_dent",
+    "top": "morenetherblocks:block/glowstone/glowstone_polished_carved_dent"
+  }
+}

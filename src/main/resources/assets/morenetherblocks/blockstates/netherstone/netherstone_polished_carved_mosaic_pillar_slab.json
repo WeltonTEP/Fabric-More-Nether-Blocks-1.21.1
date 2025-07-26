@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/netherstone/netherstone_polished_carved_mosaic_pillar_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/netherstone/netherstone_polished_carved_mosaic_pillar_slab_double"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/netherstone/netherstone_polished_carved_mosaic_pillar_slab_top"
+    }
+  }
+}

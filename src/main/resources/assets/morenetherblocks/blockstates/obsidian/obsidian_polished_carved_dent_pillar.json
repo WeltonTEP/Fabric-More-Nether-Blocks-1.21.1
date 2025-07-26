@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_carved_dent_pillar_horizontal_x"
+    },
+    "axis=y": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_carved_dent_pillar"
+    },
+    "axis=z": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_carved_dent_pillar_horizontal_z"
+    }
+  }
+}

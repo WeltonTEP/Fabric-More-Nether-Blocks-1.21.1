@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/basalt/basalt_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/basalt"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/basalt/basalt_slab_top"
+    }
+  }
+}

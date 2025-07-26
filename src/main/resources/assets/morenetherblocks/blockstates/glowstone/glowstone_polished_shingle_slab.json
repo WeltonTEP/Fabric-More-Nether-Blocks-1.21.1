@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/glowstone/glowstone_polished_shingle_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/glowstone/glowstone_polished_shingles"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/glowstone/glowstone_polished_shingle_slab_top"
+    }
+  }
+}

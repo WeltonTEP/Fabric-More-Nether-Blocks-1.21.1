@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "morenetherblocks:block/platinum/platinum_block",
+    "top": "morenetherblocks:block/platinum/platinum_block",
+    "side": "morenetherblocks:block/platinum/platinum_block"
+  }
+}

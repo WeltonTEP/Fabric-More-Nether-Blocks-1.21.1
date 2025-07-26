@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/basalt/basalt_smooth_polished_square_bricks_cracked",
+    "side": "morenetherblocks:block/basalt/basalt_smooth_polished_square_bricks_cracked",
+    "top": "morenetherblocks:block/basalt/basalt_smooth_polished_square_bricks_cracked"
+  }
+}

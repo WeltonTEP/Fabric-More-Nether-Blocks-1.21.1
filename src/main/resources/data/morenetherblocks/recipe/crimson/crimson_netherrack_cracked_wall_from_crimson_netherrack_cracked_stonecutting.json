@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:crimson/crimson_netherrack_cracked"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:crimson/crimson_netherrack_cracked_wall"
+  }
+}

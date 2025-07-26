@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:platinum/platinum_cut_block"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:platinum/platinum_chiseled_pillar"
+  }
+}

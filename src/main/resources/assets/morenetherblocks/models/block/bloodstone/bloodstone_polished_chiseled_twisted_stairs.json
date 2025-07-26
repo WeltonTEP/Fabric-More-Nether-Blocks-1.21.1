@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/bloodstone/bloodstone_polished_chiseled_twisted_top",
+    "side": "morenetherblocks:block/bloodstone/bloodstone_polished_chiseled_twisted",
+    "top": "morenetherblocks:block/bloodstone/bloodstone_polished_chiseled_twisted_top"
+  }
+}

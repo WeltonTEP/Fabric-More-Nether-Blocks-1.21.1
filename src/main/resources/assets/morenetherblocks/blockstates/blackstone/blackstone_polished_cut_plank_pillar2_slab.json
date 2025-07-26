@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/blackstone/blackstone_polished_cut_plank_pillar2_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/blackstone/blackstone_polished_cut_plank_pillar2_slab_double"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/blackstone/blackstone_polished_cut_plank_pillar2_slab_top"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/basaltic_andesite_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/basaltic_andesite"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/basaltic_andesite_slab_top"
+    }
+  }
+}

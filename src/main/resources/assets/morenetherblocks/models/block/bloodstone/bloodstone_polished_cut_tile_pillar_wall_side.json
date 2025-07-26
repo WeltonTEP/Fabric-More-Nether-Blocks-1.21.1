@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "morenetherblocks:block/bloodstone/bloodstone_polished_cut_tile_pillar_top",
+		"1": "morenetherblocks:block/bloodstone/bloodstone_polished_cut_tile_pillar",
+		"particle": "morenetherblocks:block/bloodstone/bloodstone_polished_cut_tile_pillar_top"
+	},
+	"elements": [
+		{
+			"name": "wall",
+			"from": [5, 0, 0],
+			"to": [11, 14, 8],
+			"faces": {
+				"north": {"uv": [5, 2, 11, 16], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [8, 2, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 2, 8, 16], "texture": "#1"},
+				"up": {"uv": [5, 0, 11, 8], "texture": "#0"},
+				"down": {"uv": [5, 8, 11, 16], "texture": "#0", "cullface": "down"}
+			}
+		}
+	]
+}

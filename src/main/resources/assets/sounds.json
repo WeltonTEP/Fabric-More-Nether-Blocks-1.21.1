@@ -1,0 +1,58 @@
+{
+  "block.soul_sandstone.break": {
+    "category": "block",
+    "subtitle": "block.soul_sandstone.break",
+    "sounds": [
+      {"name": "morenetherblocks:block/soul_sandstone_break1"},
+      {"name": "morenetherblocks:block/soul_sandstone_break2"},
+      {"name": "morenetherblocks:block/soul_sandstone_break3"},
+      {"name": "morenetherblocks:block/soul_sandstone_break4"}
+    ]
+  },
+  "block.soul_sandstone.fall": {
+    "category": "block",
+    "subtitle": "block.soul_sandstone.fall",
+    "sounds": [
+      {"name": "morenetherblocks:block/soul_sandstone_step1"},
+      {"name": "morenetherblocks:block/soul_sandstone_step2"},
+      {"name": "morenetherblocks:block/soul_sandstone_step3"},
+      {"name": "morenetherblocks:block/soul_sandstone_step4"},
+      {"name": "morenetherblocks:block/soul_sandstone_step5"},
+      {"name": "morenetherblocks:block/soul_sandstone_step6"}
+    ]
+  },
+  "block.soul_sandstone.hit": {
+    "category": "block",
+    "subtitle": "block.soul_sandstone.hit",
+    "sounds": [
+      {"name": "morenetherblocks:block/soul_sandstone_step1"},
+      {"name": "morenetherblocks:block/soul_sandstone_step2"},
+      {"name": "morenetherblocks:block/soul_sandstone_step3"},
+      {"name": "morenetherblocks:block/soul_sandstone_step4"},
+      {"name": "morenetherblocks:block/soul_sandstone_step5"},
+      {"name": "morenetherblocks:block/soul_sandstone_step6"}
+    ]
+  },
+  "block.soul_sandstone.step": {
+    "category": "block",
+    "subtitle": "block.soul_sandstone.step",
+    "sounds": [
+      {"name": "morenetherblocks:block/soul_sandstone_step1"},
+      {"name": "morenetherblocks:block/soul_sandstone_step2"},
+      {"name": "morenetherblocks:block/soul_sandstone_step3"},
+      {"name": "morenetherblocks:block/soul_sandstone_step4"},
+      {"name": "morenetherblocks:block/soul_sandstone_step5"},
+      {"name": "morenetherblocks:block/soul_sandstone_step6"}
+    ]
+  },
+  "block.soul_sandstone.place": {
+  "category": "block",
+  "subtitle": "block.soul_sandstone.place",
+  "sounds": [
+    {"name": "morenetherblocks:block/soul_sandstone_break1"},
+    {"name": "morenetherblocks:block/soul_sandstone_break2"},
+    {"name": "morenetherblocks:block/soul_sandstone_break3"},
+    {"name": "morenetherblocks:block/soul_sandstone_break4"}
+  ]
+ }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "morenetherblocks:block/bloodstone/bloodstone_polished_cut",
+    "side": "morenetherblocks:block/bloodstone/bloodstone_polished_cut",
+    "top": "morenetherblocks:block/bloodstone/bloodstone_polished_cut"
+  }
+}

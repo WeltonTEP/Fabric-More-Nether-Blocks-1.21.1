@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "morenetherblocks:block/quartz_bricks_cracked",
+    "top": "morenetherblocks:block/quartz_bricks_cracked",
+    "side": "morenetherblocks:block/quartz_bricks_cracked"
+  }
+}

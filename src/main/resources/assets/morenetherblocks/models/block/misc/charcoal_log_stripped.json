@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "morenetherblocks:block/misc/charcoal_log_stripped_top",
+    "side": "morenetherblocks:block/misc/charcoal_log_stripped"
+  }
+}

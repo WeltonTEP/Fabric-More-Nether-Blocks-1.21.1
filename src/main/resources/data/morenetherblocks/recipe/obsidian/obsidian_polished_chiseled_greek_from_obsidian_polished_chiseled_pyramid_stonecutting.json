@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:obsidian/obsidian_polished_chiseled_pyramid"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:obsidian/obsidian_polished_chiseled_greek"
+  }
+}

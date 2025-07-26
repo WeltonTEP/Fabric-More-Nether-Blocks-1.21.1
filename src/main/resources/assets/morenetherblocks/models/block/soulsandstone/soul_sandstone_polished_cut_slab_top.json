@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "morenetherblocks:block/soul_sandstone_polished_cut",
+    "top": "morenetherblocks:block/soul_sandstone_polished_cut",
+    "side": "morenetherblocks:block/soul_sandstone_polished_cut"
+  }
+}

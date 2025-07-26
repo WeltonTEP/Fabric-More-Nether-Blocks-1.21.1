@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/misc/charcoal_planks",
+    "top": "morenetherblocks:block/misc/charcoal_planks",
+    "side": "morenetherblocks:block/misc/charcoal_planks"
+  }
+}

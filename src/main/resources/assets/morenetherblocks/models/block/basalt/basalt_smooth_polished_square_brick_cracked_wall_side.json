@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "morenetherblocks:block/basalt/basalt_smooth_polished_square_bricks_cracked"
+  }
+}

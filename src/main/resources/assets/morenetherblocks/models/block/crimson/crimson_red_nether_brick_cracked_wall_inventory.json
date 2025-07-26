@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "morenetherblocks:block/crimson/crimson_red_nether_bricks_cracked"
+  }
+}

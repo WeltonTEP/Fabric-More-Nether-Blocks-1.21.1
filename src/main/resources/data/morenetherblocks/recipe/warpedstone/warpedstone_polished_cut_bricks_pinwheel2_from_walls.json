@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:warpedstone/warpedstone_polished_cut_brick_pinwheel2_wall"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "result": {
+    "count": 4,
+    "id": "morenetherblocks:warpedstone/warpedstone_polished_cut_bricks_pinwheel2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/netherrack_mycelium_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/netherrack_mycelium"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/netherrack_mycelium_slab_top"
+    }
+  }
+}

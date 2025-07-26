@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/blackstone/blackstone_polished_large_brick_cracked_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/cracked_polished_blackstone_bricks"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/blackstone/blackstone_polished_large_brick_cracked_slab_top"
+    }
+  }
+}

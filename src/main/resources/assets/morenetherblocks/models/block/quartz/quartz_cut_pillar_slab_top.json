@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "morenetherblocks:block/quartz_cut_pillar_top",
+    "top": "morenetherblocks:block/quartz_cut_pillar_top",
+    "side": "morenetherblocks:block/quartz_cut_pillar"
+  }
+}

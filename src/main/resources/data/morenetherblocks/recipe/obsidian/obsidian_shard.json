@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "morenetherblocks:obsidian/obsidian_sand"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "morenetherblocks:obsidian/obsidian_shard"
+  }
+}

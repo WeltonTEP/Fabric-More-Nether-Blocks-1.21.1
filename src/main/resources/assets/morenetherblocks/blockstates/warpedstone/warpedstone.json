@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "morenetherblocks:block/warpedstone/warpedstone"
+      },
+      {
+        "model": "morenetherblocks:block/warpedstone/warpedstone_mirrored"
+      },
+      {
+        "model": "morenetherblocks:block/warpedstone/warpedstone",
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/warpedstone/warpedstone_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

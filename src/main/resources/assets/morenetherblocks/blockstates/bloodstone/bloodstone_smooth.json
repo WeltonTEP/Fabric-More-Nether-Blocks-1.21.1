@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_smooth"
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_smooth_mirrored"
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_smooth",
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/bloodstone/bloodstone_smooth_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

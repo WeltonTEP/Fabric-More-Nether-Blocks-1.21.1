@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "morenetherblocks:block/obsidian/obsidian_polished_chiseled_pillar_top",
+    "side": "morenetherblocks:block/obsidian/obsidian_polished_chiseled_pillar",
+    "top": "morenetherblocks:block/obsidian/obsidian_polished_chiseled_pillar_top"
+  }
+}

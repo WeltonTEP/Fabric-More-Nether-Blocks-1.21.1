@@ -1,0 +1,9 @@
+
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/blackstone/blackstone_polished_cut",
+    "side": "morenetherblocks:block/blackstone/blackstone_polished_cut",
+    "top": "morenetherblocks:block/blackstone/blackstone_polished_cut"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "morenetherblocks:block/soul_sandstone_smooth_carved",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "morenetherblocks:block/soul_sandstone_smooth_carved"
+    },
+    "facing=south": {
+      "model": "morenetherblocks:block/soul_sandstone_smooth_carved",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "morenetherblocks:block/soul_sandstone_smooth_carved",
+      "y": 270
+    }
+  }
+}

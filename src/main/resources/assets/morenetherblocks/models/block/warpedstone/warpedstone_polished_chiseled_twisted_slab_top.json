@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "morenetherblocks:block/warpedstone/warpedstone_polished_chiseled_twisted_top",
+    "side": "morenetherblocks:block/warpedstone/warpedstone_polished_chiseled_twisted",
+    "top": "morenetherblocks:block/warpedstone/warpedstone_polished_chiseled_twisted_top"
+  }
+}

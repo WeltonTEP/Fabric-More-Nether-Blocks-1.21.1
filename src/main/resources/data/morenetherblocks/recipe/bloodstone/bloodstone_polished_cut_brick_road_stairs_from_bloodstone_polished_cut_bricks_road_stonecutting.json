@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:bloodstone/bloodstone_polished_cut_bricks_road"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:bloodstone/bloodstone_polished_cut_brick_road_stairs"
+  }
+}

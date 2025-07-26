@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_chiseled_pillar_horizontal_x"
+    },
+    "axis=y": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_chiseled_pillar"
+    },
+    "axis=z": {
+      "model": "morenetherblocks:block/warpedstone/warpedstone_polished_chiseled_pillar_horizontal_z"
+    }
+  }
+}

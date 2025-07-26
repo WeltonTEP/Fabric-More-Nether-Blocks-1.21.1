@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_stairs",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:platinum/platinum_chiseled_pillar"
+    }
+  },
+  "pattern": [
+    "###"
+
+  ],
+  "result": {
+    "count": 6,
+    "id": "morenetherblocks:platinum/platinum_chiseled_pillar_slab"
+  }
+}

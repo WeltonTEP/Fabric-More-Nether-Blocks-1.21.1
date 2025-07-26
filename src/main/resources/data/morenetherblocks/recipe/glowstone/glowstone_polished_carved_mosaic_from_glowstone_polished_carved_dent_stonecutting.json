@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:glowstone/glowstone_polished_carved_dent"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:glowstone/glowstone_polished_carved_mosaic"
+  }
+}

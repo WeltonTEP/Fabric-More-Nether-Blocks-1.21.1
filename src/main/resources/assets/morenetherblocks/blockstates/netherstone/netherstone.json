@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "morenetherblocks:block/netherstone/netherstone"
+      },
+      {
+        "model": "morenetherblocks:block/netherstone/netherstone_mirrored"
+      },
+      {
+        "model": "morenetherblocks:block/netherstone/netherstone",
+        "y": 180
+      },
+      {
+        "model": "morenetherblocks:block/netherstone/netherstone_mirrored",
+        "y": 180
+      }
+    ]
+  }
+}

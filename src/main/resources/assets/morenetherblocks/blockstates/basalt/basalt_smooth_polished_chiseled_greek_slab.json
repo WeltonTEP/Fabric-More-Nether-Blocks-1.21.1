@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_chiseled_greek_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_chiseled_greek"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_chiseled_greek_slab_top"
+    }
+  }
+}

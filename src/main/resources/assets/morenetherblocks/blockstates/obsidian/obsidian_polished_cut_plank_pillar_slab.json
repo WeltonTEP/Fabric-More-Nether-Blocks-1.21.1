@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_plank_pillar_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_plank_pillar_slab_double"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_plank_pillar_slab_top"
+    }
+  }
+}

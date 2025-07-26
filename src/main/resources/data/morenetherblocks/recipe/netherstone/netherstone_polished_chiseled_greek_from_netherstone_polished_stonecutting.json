@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:netherstone/netherstone_polished"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:netherstone/netherstone_polished_chiseled_greek"
+  }
+}

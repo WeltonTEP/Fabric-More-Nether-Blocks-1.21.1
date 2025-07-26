@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "morenetherblocks:block/crimson/crimson_red_nether_bricks"
+      }
+    ]
+  }
+}

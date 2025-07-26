@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_tile_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_tiles"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/obsidian/obsidian_polished_cut_tile_slab_top"
+    }
+  }
+}

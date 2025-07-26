@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "morenetherblocks:block/soul_sandstone_polished_carved"
+  }
+}

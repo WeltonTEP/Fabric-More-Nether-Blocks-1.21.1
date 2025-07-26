@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:platinum/platinum_block"
+  },
+  "result": {
+    "count": 4,
+    "id": "morenetherblocks:platinum/platinum_cut_slab"
+  }
+}

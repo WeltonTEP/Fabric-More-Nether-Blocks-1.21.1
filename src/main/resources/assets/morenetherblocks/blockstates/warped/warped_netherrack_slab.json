@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/warped/warped_netherrack_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/warped/warped_netherrack"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/warped/warped_netherrack_slab_top"
+    }
+  }
+}

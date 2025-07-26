@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_chiseled_ornate_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_chiseled_ornate"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_chiseled_ornate_slab_top"
+    }
+  }
+}

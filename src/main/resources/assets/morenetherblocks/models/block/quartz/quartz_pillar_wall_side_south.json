@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "minecraft:block/quartz_pillar",
+		"1": "minecraft:block/quartz_pillar_top",
+		"particle": "minecraft:block/quartz_pillar"
+	},
+	"elements": [
+		{
+			"name": "wall_center",
+			"from": [5, 0, 5],
+			"to": [11, 14, 11],
+			"faces": {
+				"north": {"uv": [5, 2, 11, 16], "texture": "#0"},
+				"east": {"uv": [5, 2, 11, 16], "texture": "#0"},
+				"west": {"uv": [5, 2, 11, 16], "texture": "#0"},
+				"up": {"uv": [5, 5, 11, 11], "texture": "#1"},
+				"down": {"uv": [5, 5, 11, 11], "texture": "#1"}
+			}
+		},
+		{
+			"name": "wall_south",
+			"from": [5, 0, 11],
+			"to": [11, 14, 16],
+			"faces": {
+				"east": {"uv": [0, 2, 5, 16], "texture": "#0"},
+				"west": {"uv": [11, 2, 16, 16], "texture": "#0"},
+				"up": {"uv": [5, 11, 11, 16], "texture": "#1"},
+				"down": {"uv": [5, 0, 11, 5], "texture": "#1"}
+			}
+		}
+	]
+}

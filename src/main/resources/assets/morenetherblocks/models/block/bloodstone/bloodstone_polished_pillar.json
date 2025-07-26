@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "morenetherblocks:block/bloodstone/bloodstone_polished_pillar_top",
+    "side": "morenetherblocks:block/bloodstone/bloodstone_polished_pillar"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:misc/red_nether_bricks_cracked"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:misc/red_nether_brick_cracked_wall"
+  }
+}

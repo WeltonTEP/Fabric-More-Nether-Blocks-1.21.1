@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/platinum/netherite_scrap_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/platinum/netherite_scrap_block"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/platinum/netherite_scrap_slab_top"
+    }
+  }
+}

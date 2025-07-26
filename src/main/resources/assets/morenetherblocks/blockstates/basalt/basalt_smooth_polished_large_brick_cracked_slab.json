@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_large_brick_cracked_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_large_bricks_cracked"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_large_brick_cracked_slab_top"
+    }
+  }
+}

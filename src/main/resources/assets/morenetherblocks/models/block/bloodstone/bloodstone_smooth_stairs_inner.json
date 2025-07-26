@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/bloodstone/bloodstone_smooth",
+    "side": "morenetherblocks:block/bloodstone/bloodstone_smooth",
+    "top": "morenetherblocks:block/bloodstone/bloodstone_smooth"
+  }
+}

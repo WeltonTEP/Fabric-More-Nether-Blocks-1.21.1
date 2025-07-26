@@ -1,0 +1,11 @@
+// 1.21.1	2025-07-25T17:11:30.4151936	MoreNetherBlocks/Tags for minecraft:block
+894fb28322214da87655774e36bd7b645fc54ba5 data\minecraft\tags\block\fences.json
+affdbf8c1f5e69c81e1fd4f1900958aee4887167 data\minecraft\tags\block\beacon_base_blocks.json
+41900c9e25970b93643d2dd850770f4dbc6e705a data\minecraft\tags\block\impermeable.json
+f145117cff66101a6483cb6a81232e9b3009f969 data\minecraft\tags\block\planks.json
+b9f5e731a326f1ae62ec9615a9906bb40321fc64 data\minecraft\tags\block\logs_that_burn.json
+01e0a754e45e1b7a4395cdaf936a620feaa7c524 data\minecraft\tags\block\needs_diamond_tool.json
+8b9828129a0fe6f37cd97ab96ebd253a51824b07 data\minecraft\tags\block\mineable\shovel.json
+21896cb30b5499ae5c5d8eb5c18926e00d94c1e0 data\minecraft\tags\block\nylium.json
+2104e3fa9b2e30a8e2f2341341df578259971790 data\minecraft\tags\block\walls.json
+0d6fe94d148c86a2d1b7d971412a870862fbb4ac data\minecraft\tags\block\mineable\axe.json

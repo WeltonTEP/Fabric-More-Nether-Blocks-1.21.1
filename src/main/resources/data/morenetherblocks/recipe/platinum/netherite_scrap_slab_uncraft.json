@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "mossy_stone_bricks",
+  "ingredients": [
+    {
+      "item": "morenetherblocks:platinum/netherite_scrap_slab"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "id": "minecraft:netherite_scrap"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "morenetherblocks:block/misc/charcoal_wood_stripped_horizontal_x"
+    },
+    "axis=y": {
+      "model": "morenetherblocks:block/misc/charcoal_wood_stripped"
+    },
+    "axis=z": {
+      "model": "morenetherblocks:block/misc/charcoal_wood_stripped_horizontal_z"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:crimsonstone/crimsonstone_polished_pillar2"
+  },
+  "result": {
+    "count": 2,
+    "id": "morenetherblocks:crimsonstone/crimsonstone_polished_pillar2_slab"
+  }
+}

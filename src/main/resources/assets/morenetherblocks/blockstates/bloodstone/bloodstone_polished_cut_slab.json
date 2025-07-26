@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_cut_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_cut"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_cut_slab_top"
+    }
+  }
+}

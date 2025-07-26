@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:bloodstone/bloodstone_polished_chiseled_twisted"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:bloodstone/bloodstone_polished_chiseled_twisted_stairs"
+  }
+}

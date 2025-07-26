@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/obsidian/obsidian_smooth_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/obsidian/obsidian_smooth"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/obsidian/obsidian_smooth_slab_top"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/blackstone/blackstone_smooth_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/blackstone/blackstone_smooth"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/blackstone/blackstone_smooth_slab_top"
+    }
+  }
+}

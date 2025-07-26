@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "morenetherblocks:block/netherstone/netherstone_polished_cut_plank_pillar2_horizontal_x"
+    },
+    "axis=y": {
+      "model": "morenetherblocks:block/netherstone/netherstone_polished_cut_plank_pillar2"
+    },
+    "axis=z": {
+      "model": "morenetherblocks:block/netherstone/netherstone_polished_cut_plank_pillar2_horizontal_z"
+    }
+  }
+}

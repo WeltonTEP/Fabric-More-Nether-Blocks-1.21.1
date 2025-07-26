@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_carved_circular_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_carved_circular"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/basalt/basalt_smooth_polished_carved_circular_slab_top"
+    }
+  }
+}

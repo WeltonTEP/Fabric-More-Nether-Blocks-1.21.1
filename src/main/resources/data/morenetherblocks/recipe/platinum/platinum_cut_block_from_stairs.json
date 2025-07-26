@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_stairs",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:platinum/platinum_cut_stairs"
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+
+  ],
+  "result": {
+    "count": 3,
+    "id": "morenetherblocks:platinum/platinum_cut_block"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:warped/warped_netherrack"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:warped/warped_netherrack_stairs"
+  }
+}

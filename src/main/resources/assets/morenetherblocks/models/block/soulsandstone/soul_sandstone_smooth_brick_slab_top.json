@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab_top",
+  "textures": {
+    "bottom": "morenetherblocks:block/soul_sandstone_smooth_bricks",
+    "top": "morenetherblocks:block/soul_sandstone_smooth_bricks",
+    "side": "morenetherblocks:block/soul_sandstone_smooth_bricks"
+  }
+}

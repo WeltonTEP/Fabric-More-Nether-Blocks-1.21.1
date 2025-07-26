@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "morenetherblocks:warpedstone/warpedstone_polished_carved_circular_pillar"
+  },
+  "result": {
+    "count": 1,
+    "id": "morenetherblocks:warpedstone/warpedstone_polished_carved_mosaic_pillar"
+  }
+}

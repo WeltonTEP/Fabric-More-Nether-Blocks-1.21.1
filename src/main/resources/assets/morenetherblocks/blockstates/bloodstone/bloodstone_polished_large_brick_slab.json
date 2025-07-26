@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_large_brick_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_large_bricks"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/bloodstone/bloodstone_polished_large_brick_slab_top"
+    }
+  }
+}

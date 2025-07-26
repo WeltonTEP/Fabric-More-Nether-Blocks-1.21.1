@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/glowstone/glowstone_polished_chiseled_pyramid_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/glowstone/glowstone_polished_chiseled_pyramid"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/glowstone/glowstone_polished_chiseled_pyramid_slab_top"
+    }
+  }
+}

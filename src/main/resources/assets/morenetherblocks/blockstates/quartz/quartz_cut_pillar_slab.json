@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "morenetherblocks:block/quartz_cut_pillar_slab"
+    },
+    "type=double": {
+      "model": "morenetherblocks:block/quartz_cut_pillar"
+    },
+    "type=top": {
+      "model": "morenetherblocks:block/quartz_cut_pillar_slab_top"
+    }
+  }
+}

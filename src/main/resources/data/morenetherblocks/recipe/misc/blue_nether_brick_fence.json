@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "morenetherblocks:misc/blue_nether_brick"
+    },
+    "W": {
+      "item": "morenetherblocks:misc/blue_nether_bricks"
+    }
+  },
+  "pattern": [
+    "W#W",
+    "W#W"
+  ],
+  "result": {
+    "count": 6,
+    "id": "morenetherblocks:misc/blue_nether_brick_fence"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "morenetherblocks:block/basalt/basalt_smooth_polished_cut_plank_pillar2_top",
+    "side": "morenetherblocks:block/basalt/basalt_smooth_polished_cut_plank_pillar"
+  }
+}

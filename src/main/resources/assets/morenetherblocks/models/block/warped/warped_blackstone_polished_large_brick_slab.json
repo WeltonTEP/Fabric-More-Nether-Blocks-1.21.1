@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "morenetherblocks:block/warped/warped_blackstone_polished_large_bricks",
+    "top": "morenetherblocks:block/warped/warped_blackstone_polished_large_bricks",
+    "side": "morenetherblocks:block/warped/warped_blackstone_polished_large_bricks"
+  }
+}

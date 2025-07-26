@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "morenetherblocks:block/basalt/basalt_smooth_polished",
+    "top": "morenetherblocks:block/basalt/basalt_smooth_polished",
+    "side": "morenetherblocks:block/basalt/basalt_smooth_polished"
+  }
+}

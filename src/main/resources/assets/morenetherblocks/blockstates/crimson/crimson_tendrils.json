@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "morenetherblocks:block/crimson/crimson_tendrils_bottom"
+    },
+    "half=upper": {
+      "model": "morenetherblocks:block/crimson/crimson_tendrils_top"
+    }
+  }
+}

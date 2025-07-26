@@ -1,0 +1,90 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "morenetherblocks:block/quartz_pillar_wall_post"
+      }
+    },
+    {
+      "when": {
+        "north": "low"
+      },
+      "apply": {
+        "model": "morenetherblocks:block/quartz_pillar_wall_side_north",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "low"
+      },
+      "apply": {
+        "model": "morenetherblocks:block/quartz_pillar_wall_side_east",
+        "y": 90,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "low"
+      },
+      "apply": {
+        "model": "morenetherblocks:block/quartz_pillar_wall_side_south",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "low"
+      },
+      "apply": {
+        "model": "morenetherblocks:block/quartz_pillar_wall_side_west",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "north": "tall"
+      },
+      "apply": {
+        "model": "morenetherblocks:block/quartz_pillar_wall_side_tall_north",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "tall"
+      },
+      "apply": {
+        "model": "morenetherblocks:block/quartz_pillar_wall_side_tall_east",
+        "y": 90,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "tall"
+      },
+      "apply": {
+        "model": "morenetherblocks:block/quartz_pillar_wall_side_tall_south",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "tall"
+      },
+      "apply": {
+        "model": "morenetherblocks:block/quartz_pillar_wall_side_tall_west",
+        "y": 270,
+        "uvlock": true
+      }
+    }
+  ]
+}

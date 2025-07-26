@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"cross": "morenetherblocks:block/quartz_cluster"
+	},
+	"elements": [
+		{
+			"name": "cross_01",
+			"from": [8, 0, -3],
+			"to": [8, 16, 19],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#cross"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#cross"}
+			}
+		},
+		{
+			"name": "cross_02",
+			"from": [8, 0, -3],
+			"to": [8, 16, 19],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#cross"},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#cross"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "cross_rotated",
+			"origin": [8, 0, 8],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}

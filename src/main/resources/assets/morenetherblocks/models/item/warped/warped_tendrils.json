@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "morenetherblocks:block/warped/warped_tendrils_bottom"
+  }
+}

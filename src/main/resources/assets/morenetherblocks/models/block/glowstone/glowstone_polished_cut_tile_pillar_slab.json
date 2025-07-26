@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "morenetherblocks:block/glowstone/glowstone_polished_cut_tile_pillar_top",
+    "side": "morenetherblocks:block/glowstone/glowstone_polished_cut_tile_pillar",
+    "top": "morenetherblocks:block/glowstone/glowstone_polished_cut_tile_pillar_top"
+  }
+}

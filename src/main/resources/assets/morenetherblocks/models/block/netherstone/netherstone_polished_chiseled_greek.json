@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "morenetherblocks:block/netherstone/netherstone_polished_chiseled_greek_top",
+    "side": "morenetherblocks:block/netherstone/netherstone_polished_chiseled_greek"
+  }
+}
